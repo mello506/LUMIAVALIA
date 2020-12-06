@@ -1,1 +1,170 @@
-MMMMMMMMMMMMMMMM
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+
+<channels></channels>
+<channel>
+<name>[COLOR blue][B] WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN</info>
+<genre>WESTERNO</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] FILMES DE WESTERN[/B][/COLOR]</name>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>OS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre> 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO VEM PARA MATAR - 1967 - ITA [/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=GK2p7tu-bhc$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO VEM PARA MATAR[/COLOR]</link>
+
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;maxbitrate=0&amp;Buffer=99999&amp;url=https://proxy-02.nyc.dailymotion.com/sec(wIhAEtcGY0FlKmw_K5ItmWHSIw0cpsFS-sFfMefYxYLaNB5ZYd5AhRojBKITs4FaDM8y0rk5FQMKGYGTxk7F1g7WiDpIcn3NoMR5YvIs5Hg)/video/714/263/479362417_mp4_h264_aac_fhd.m3u8$$lsname=[B]LS - SERVER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO VEM PARA MATAR - SD - ITA[/COLOR]</link>
+
+<link>plugin://plugin.video.youtube/play/?video_id=ghTO65vakwM$$lsname=[B]YOUTUBE[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO VEM PARA MATAR - SD - DUB[/COLOR]</link>
+
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_820316-MLB27817012908_072018-O.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Se sei vivo spara é um filme italiano do gênero spaghetti western lançado em 1967, considerado um dos mais violentos, perturbadores e bizarros westerns produzidos na Itália</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO - 1966 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=AzKW_pscs5A$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=MAGNETLINK720$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] DJANGO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb3be73c8d04317d0f931c5fa92c17b2f2b7815&dn=Django.1966.1080p.BluRay.x264.AC3-CaNNIBal&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] DJANGO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://ondebaixa.com/capas/django-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Arrastando um misterioso caixão atrás de si, ele retorna para vingar a morte de sua esposa e banhar de sangue as ruas da cidade. Os tiroteios e confrontos são inevitáveis. Django está determinado em seu plano de vingança. Mas, o que será que ele carrega naquele caixão?</info>
+<genre>WESTERN</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - ZORRO - 2013 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=6XJLKw96fr0$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - ZORRO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:212a395b3c5c8c72e41c6e4d824db21ab5379d50&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - ZORRO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232eb075a0c23ef527f53c026e3240f38ab8679f&dn=O+Cavaleiro+Solit%26aacute%3Brio+%282013%29+BluRay+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] O CAVALEIRO SOLITARIO - ZORRO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Colby, Texas, 1869. John Reid é um advogado que acaba de retornar à sua cidade-natal, onde vive seu irmão Dan, a cunhada Rebecca e o sobrinho Danny. John está disposto a cumprir a justiça ao pé da letra, levando os criminosos ao tribunal, apesar da resistência local. Ao acompanhar o irmão e outros Texas Rangers em uma patrulha pelo deserto, o grupo é atacado pelos capangas de Butch Cavendish, um bandido que tem a fama de comer carne humana. Todos são assassinados, com exceção de John, que fica à beira da morte. O índio Tonto o encontra e, ao perceber que um cavalo branco escolhe John, passa a ajudá-lo. Tonto acredita que John foi escolhido por um mensageiro espiritual e que, como voltou da morte, não pode mais ser morto. A partir de então John passa a usar uma máscara e, ao lado de Tonto, faz de tudo para reencontrar Cavendish.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS INDOMÁVEIS - 2007 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=MShBpMkhuZU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS INDOMAVEIS[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f674684944d3a9b6a9da24638df8332af2118d8&dn=Os+Indom%26aacute%3Bveis+%5B2008%5D+-+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337T$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS INDOMAVEIS - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6d791338cf3da9e085fde76cc67f9326b255988&dn=Os+Indom%26aacute%3Bveis+%5B2008%5D+-+BDRIP+1080p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] OS INDOMAVEIS - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/NL8xv22/indomaveisicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>No velho oeste de 1800, o fazendeiro Dan Evans aceita escoltar o fora da lei Ben Wade até a cidade de Yuma, no Colorado, onde um tribunal o aguarda. Os homens partem numa viagem de trem que revela que eles têm mais coisas em comum do que imaginavam.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ÓDIO SERÁ SUA HERANÇA - 1972 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=4Vea6c2svYs$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3711b36b0cf96519c6c7ffff33799f055c60da4c&dn=Meu+Odio+Sera+Sua+Heran%26ccedil%3Ba+%281969%29+BluRay+720p+Dublado&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 1972 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d67982cc23c5844c19baac0e2d63ea5a665034a2&dn=%5bACESSE...HD-ELITE.ME%5d%20Meu.%c3%93dio.Ser%c3%a1.Sua.Heran%c3%a7a.(1969).Dual.1080p.by.jhonatan28&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] MEU ODIO SERA SUA HERANCA - 1972 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/HYfcMYw/wildbunchicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Perigosos fora-da-lei decidem se aposentar, mas são tentados por um trem carregado de armas com valiosa remessa.Eles já foram os mais perigosos "fora da lei" da fronteira, seguindo seus próprios códigos de honra e lealdade.Realizaram diversos assaltos pelas planícies do oeste, sempre colocando suas cabeças a prêmio. Mas os tempos mudaram.O lucro estava cada vez menor e o risco cada vez maior. Era hora de parar, mas a ganância falou mais alto. Dez mil dólares para roubar o carregamento de armas de um trem para um poderoso bandoleiro mexicano. Nada poderia detê-los, a não ser a morte.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] MARCADOS PELA VINGANÇA - 1972 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=LINKTRAILER$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR red] MARCADOS PELA VINGANCA[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR red] MARCADOS PELA VINGANCA - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=LINKMAGNET$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR red] MARCADOS PELA VINGANCA - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/LRWgnhJ/revengersicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Vaqueiro vê a família ser massacrada por bando de índios e ladrões de cavalos, liderados por dois homens brancos, que fogem para o México e escapam da polícia americana. O vaqueiro arregimenta seis fugitivos da prisão e parte para a vingança.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=bG-ZxrG7htU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d7bbebc1b87703b6f0021cb431f5c1be9da8169$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d0b9f10294bfcff4f57307013a91d0ad6d1cb67&dn=%5bACESSE...HD-ELITE.ME%5d%20Sete.Homens.e.Um.Destino.1960(Classica.e.Redublagem).1080p.BluRay.by.britodiass&tr=udp%3a%2f%2f9.rarbg.me%3a2790%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1960 - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/BrhpbpN/thesevenicon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Em um vilarejo mexicano, os habitantes sofrem constantes ataques de um bando de pistoleiros liderados pelo temido Calvera. Cansados de serem saqueados, alguns moradores locais que não têm armas e muito menos temperamento violento viajam até a fronteira, onde encontram Chris e Vin, dois pistoleiros desempregados que estão dispostos, não pelo dinheiro mas pela aventura, a reunir mais cinco outros foras-da-lei, que concordam por motivos diversos, a defendê-los de Calvera. A vitória parecia assegurada, mas Calvera não desiste facilmente e volta ao povoado, obrigando Chris e seus companheiros a lutarem até a morte para salvar os habitantes da pequena cidade.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 2016 - DUB[/COLOR]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=8UGD38ZIHBU$$lsname=[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DDD55B5CB6ED121FED188D79403CEB5F443258DB&dn=Sete.Homens.e.um.Destino.2016.720p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 720[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 720 - DUB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E95F87ACC5571B9CE0389864B53DA9D3A081D8C6&dn=Sete.Homens.e.um.Destino.2016.1080p.BluRay.x264.DUBLADO-WWW.TORRENTDOSFILMES.COM&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.trackerfix.com%3a81%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2feddie4.nl%3a6969%2fannounce&tr=udp%3a%2f%2fp4p.arenabg.com%3a1337%2fannounce&tr=udp%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2720%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fzer0day.ch%3a1337%2fannounce$$lsname=[B]TORRENT 1080[/B][COLOR yellow] ->[/COLOR][COLOR lime] SETE HOMENS E UM DESTINO - 1080 - DUB[/COLOR]</link>
+
+<thumbnail>https://i.ibb.co/DrPRMKB/seven2016icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info> Moradores desesperados de uma cidadezinha contratam sete mercenários para combater um inescrupuloso empresário e seus capangas, no Velho Oeste norte-americano.</info>
+<genre>WESTERN</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] SÉRIES DE WESTERN[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/GA-SERIESDEWESTERN</externallink>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>AS SÉRIES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<channels></channels>
+<channel>
+<name>[COLOR lime][B] COLEÇÕES DE FILMES DE WESTERN[/B][/COLOR] </name>
+<externallink>https://raw.githubusercontent.com/mello506/1M94G4QyxyfJac43tUCrLo85mWif2ZLWq3/master/4C1-COLECAODEFILMESWESTERN</externallink>
+<thumbnail>https://i.ibb.co/ch4dDQN/sub-cat-western.png</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>COLETÂNEA DAS SEQUÊNCIAS DOS MELHORES FILMES DE WESTERN ESTÃO AQUI</info>
+<genre>WESTERN</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+
+
+
+
+
