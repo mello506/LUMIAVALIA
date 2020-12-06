@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B] FILMES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-filmes</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/2-FILMES</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/LUMIAVALIA/main/2-FILMES-AVAL</externallink>
 <info>
    O MELHOR DA SÉTIMA ARTE</info>
 </channel>
@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[COLOR lime][B] SÉRIES[/B][/COLOR]</name>
 <thumbnail>http://bit.do/cat-series</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A-SERIES</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/LUMIAVALIA/main/3-SERIES-AVAL</externallink>
 <info>SUA MARATONA ESTA AQUI </info>
 </channel>
 </channels>
@@ -84,7 +84,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B] SEÇÕES ESPECIAIS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/NEWLUMINART/main/7-SECOESESPECIAIS</externallink>
+<externallink>https://raw.githubusercontent.com/mello506/LUMIAVALIA/main/7-SECOESESPECIAIS-AVAL</externallink>
 <thumbnail>https://i.ibb.co/t2pvm2f/scoesespeciais-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>OS DESTAQUES DA SÉTIMA ARTE</info>
