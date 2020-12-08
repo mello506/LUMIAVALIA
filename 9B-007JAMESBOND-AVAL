@@ -188,7 +188,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <genre>AÇÃO</genre
 
 <item>
-<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] SUPORTE AO RECURSO SERVER 1 [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
+<title>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] SUPORTE AO RECURSO REDE CANAIS [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
@@ -209,7 +209,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 
 <item>
-<title>[COLOR white] 1 - O recurso SERVER 1 é em STREAMING[/COLOR]
+<title>[COLOR white] 1 - O recurso REDE CANAIS é em STREAMING[/COLOR]
 [COLOR white] um acesso direto ao conteúdo sem ter que esperar. [/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
@@ -236,20 +236,27 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[COLOR white] acontece erros ou mesmo o conteúdo não roda. [/COLOR]
-[COLOR white] Infelizmente o recurso provém de um servidor REMUNERADO , [/COLOR]</title>
+[COLOR white] Infelizmente o recurso provém de um provedor instável, [/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR white]por essa razão esse acesso só é disponibilizado [/COLOR]</title>
+<title>[COLOR white]com links que mudam constatemente [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
+</item>
+
+<item>
+<title>[COLOR white] e devem ser atualizados da mesma forma [/COLOR]
+[COLOR white] trabalho demorado e cansativo , o acesso então é [/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 </item>
 
 <item>
 <title>[COLOR white] aos USUÁRIOS CONTRIBUINTES que através de suas  [/COLOR]
-[COLOR white] doações nos permite pagar o servidor. [/COLOR]</title>
+[COLOR white] doações nos estimula a manter as atualizações. [/COLOR]</title>
 <link>ignoreme</link>
 <thumbnail>https://i.ibb.co/PTfM77r/server1-icon.png</thumbnail>
 </item>
