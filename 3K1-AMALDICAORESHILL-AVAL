@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[B]TESTE2[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL [/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] A MALDIÇÃO DA RESIDÊNCIA HILL [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
@@ -30,20 +30,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</title>
-
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP01.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Steven Ve Um Fantasma[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP02.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Caixao Aberto[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP03.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Toque[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP04.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coisa de Gemeos[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP05.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Moca do Pescoco Torto[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP06.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Duas Tempestades[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP07.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eulogia[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP08.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Marcas de Uso[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP09.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pesadelo[/COLOR]</link>
-<link>https://coca-cola.azureedge.net/RCServer07/ondemand/AMLDCDRSDNCHLT01EP10.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Silencio Repousa Soberano[/COLOR]</link>
-
+<channels></channels>
+<channel>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A-REDECAN-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/r2pK6rG/reshill-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Um grupo de irmãos cresceram no que se tornaria a casa assombrada mais famosa do país. Agora, adultos, eles são forçados a retornar? mansão após uma tragédia e juntos precisarão enfrentar os fantasmas de seu passado — alguns ainda assombram suas mentes enquanto outros podem estar observando das sombras da Residência Hill. </info>
@@ -52,9 +42,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <channels></channels>
 <channel>
-<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</name>
+<name>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A-REDECAN-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/r2pK6rG/reshill-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
