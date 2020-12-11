@@ -1,4 +1,4 @@
-<channels>
+<channels></channels>
 <channel>
 <name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</<name>>
 <thumbnail>http://bit.do/iconnavegacao</thumbnail>
@@ -6,25 +6,22 @@
 <info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
 [COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
 NO EMAIL - luminartstudio4@gmail.com</info>
-</channel>
-</channels>
 
-<channels>
+
+<channels></channels>
 <channel>
 <name>[COLOR blue][B] SÉRIES DE SUSPENSE E TERROR[/B][/COLOR]</name>
-<thumbnail>https://i.ibb.co/Sy1841G/startrek-pasta.png</thumbnail>
+<thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>SÉRIES DE FICÇÃO E FANTASIA</info>
-<genre>FICÇÃO E FANTASIA</genre>
-</channel>
-</channels>
+<info>SÉRIES DE SUSPENSE E TERROR</info>
+<genre>SUSPENSE E TERROR</genre>
+
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] SUPERNATURAL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1A-SUPERNATURAL</externallink>
 <thumbnail>https://i.ibb.co/t8spnqg/supernatural-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO SUPERNATURAL</info>
@@ -35,7 +32,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] TERRORES URBANOS [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1B-TERRORESURBANOS</externallink>
 <thumbnail>https://i.ibb.co/xgdDfbM/terroresurbanos-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO TERRORES URBANOS</info>
@@ -46,7 +42,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] COLD CASE [/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1C-COLDCASE</externallink>
 <thumbnail>https://i.ibb.co/1vtd7sB/coldcase-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO COLD CASE</info>
@@ -57,7 +52,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA MANSÃO BLY[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1D-AMALDICAODEMANSAOBLYSERVER1</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO A MALDIÇÃO DA MANSÃO BLY</info>
@@ -68,25 +62,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels></channels>
 <channel>
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE WALKING DEAD[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1E-THEWALKINGDEAD</externallink>
 <thumbnail>https://</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>SEÇÃO THE WALKING DEAD</info>
 <genre>SUSPENSE</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTSERIES/main/A1F-AMALDICAORESHILL</externallink>
-<thumbnail>https://</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>SEÇÃO A MALDIÇÃO DA RESIDÊNCIA HILL</info>
-<genre>SUSPENSE</genre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 
 <channels></channels>
 <channel>
