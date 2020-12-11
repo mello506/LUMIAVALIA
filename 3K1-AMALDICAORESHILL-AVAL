@@ -1,6 +1,6 @@
 <channels></channels>
 <channel>
-<name>[B]teste[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL [/B][/COLOR]</name>
+<name>[B]TESTE2[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL [/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/G7T0YJY/reshillr-pasta.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ESCOLHA O SERVIDOR  PARA ASSISTIR</info>
@@ -52,20 +52,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<item>
-<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</title>
-
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16521.mp4$$lsname=[B]T01E01[/B][COLOR yellow] ->[/COLOR][COLOR lime] Steven Ve Um Fantasma[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16522.mp4$$lsname=[B]T01E02[/B][COLOR yellow] ->[/COLOR][COLOR lime] Caixao Aberto[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16523.mp4$$lsname=[B]T01E03[/B][COLOR yellow] ->[/COLOR][COLOR lime] Toque[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16524.mp4$$lsname=[B]T01E04[/B][COLOR yellow] ->[/COLOR][COLOR lime] Coisa de Gemeos[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16525.mp4$$lsname=[B]T01E05[/B][COLOR yellow] ->[/COLOR][COLOR lime] A Moca do Pescoco Torto[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16526.mp4$$lsname=[B]T01E06[/B][COLOR yellow] ->[/COLOR][COLOR lime] Duas Tempestades[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16527.mp4$$lsname=[B]T01E07[/B][COLOR yellow] ->[/COLOR][COLOR lime] Eulogia[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16528.mp4$$lsname=[B]T01E08[/B][COLOR yellow] ->[/COLOR][COLOR lime] Marcas de Uso[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16529.mp4$$lsname=[B]T01E09[/B][COLOR yellow] ->[/COLOR][COLOR lime] Pesadelo[/COLOR]</link>
-<link>http://sv1.nowiptv.net:8880/series/ACML2/ACM21/16530.mp4$$lsname=[B]T01E10[/B][COLOR yellow] ->[/COLOR][COLOR lime] O Silencio Repousa Soberano[/COLOR]</link>
-
+<channels></channels>
+<channel>
+<name>[B]REDE CANAIS[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] A MALDIÇÃO DA RESIDÊNCIA HILL - TEMP 01 - 2019 - DUB[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A-REDECAN-ACESSORESTRITO</externallink>
 <thumbnail>https://i.ibb.co/r2pK6rG/reshill-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Um grupo de irmãos cresceram no que se tornaria a casa assombrada mais famosa do país. Agora, adultos, eles são forçados a retornar? mansão após uma tragédia e juntos precisarão enfrentar os fantasmas de seu passado — alguns ainda assombram suas mentes enquanto outros podem estar observando das sombras da Residência Hill. </info>
@@ -73,5 +63,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-
