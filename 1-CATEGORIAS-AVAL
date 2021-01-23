@@ -48,9 +48,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B] NOVELAS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/REPOTORRENT-LUMINART/main/4-SELNOVELAS-TORRENT</externallink>
 <thumbnail>https://i.ibb.co/GxNcZ34/novelas-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTNOVELAS/main/A-NOVELAS</externallink>
 <info>VALE A PENA VER DE NOVO SUA NOVELA FAVORITA</info>
 </channel>
 </channels>
@@ -60,9 +60,9 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR lime][B] DESENHOS[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/1-DESENHOSANTIGOS</externallink>
 <thumbnail>http://bit.do/cat-desenhos</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<externallink>https://raw.githubusercontent.com/mello506/LUMINARTDESENHOS/main/1-DESENHOSANTIGOS</externallink>
 <info>DIVERSÃO GARANTIDA PARA A CRIANÇADA </info> 
 </channel>
 </channels>
